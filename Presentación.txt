@@ -13,3 +13,7 @@ Los temas tratados son:
     JavaScript, el lenguaje programado por medio de scripts utilizado para crear funciones dinámicas en la web.
 
     Herramientas que se utilizan para facilitar el desarrollo web moderno de lado del cliente.
+
+
+==== ¿Cuál será la apariencia de tu sitio Web? =======
+https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like
