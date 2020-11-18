@@ -1,0 +1,15 @@
+TEMAS TRATADOS
+
+Los temas tratados son:
+
+    Configuración básica y conocimientos sobre cómo aprender.
+
+    Estándares web y mejores prácticas (como accesibilidad y compatibilidad entre navegadores)
+
+    HTML, el lenguaje que da estructura y significado al contenido web
+
+    CSS, el lenguaje utilizado para aplicar estilo a las páginas web
+
+    JavaScript, el lenguaje programado por medio de scripts utilizado para crear funciones dinámicas en la web.
+
+    Herramientas que se utilizan para facilitar el desarrollo web moderno de lado del cliente.
